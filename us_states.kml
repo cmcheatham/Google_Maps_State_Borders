@@ -12,15 +12,15 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>242f3e</color>
+        <color>ffff0000</color>
         <scale>1</scale>
       </LabelStyle>
       <LineStyle>
-        <color>242f3e</color>
+        <color>ffff0000</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>242f3e</color>
+        <color>ffff0000</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
